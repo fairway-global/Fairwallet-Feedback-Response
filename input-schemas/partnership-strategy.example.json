@@ -1,0 +1,16 @@
+{
+  "partnership_objectives": [],
+  "partners": [
+    {
+      "partner_label": "",
+      "partner_type": "educational_institution | organizer | ecosystem | other",
+      "role": "",
+      "engagement_status": "exploratory | in_discussion | agreed | active | completed",
+      "contribution": "",
+      "public_reference": ""
+    }
+  ],
+  "implementation_activities": [],
+  "agreements_in_place": [],
+  "planned_partnerships": []
+}

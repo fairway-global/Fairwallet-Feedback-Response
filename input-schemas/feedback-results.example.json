@@ -1,0 +1,21 @@
+{
+  "survey_period": "",
+  "rating_scale": "1-5",
+  "respondents": [
+    {
+      "respondent_code": "R01",
+      "respondent_group": "student | organizer | institutional_stakeholder",
+      "overall_satisfaction": null,
+      "ease_of_use": null,
+      "wallet_setup_success": "yes | with_help | no",
+      "credential_received": "yes | no",
+      "credential_verified": "yes | no",
+      "would_use_again": "yes | maybe | no",
+      "institutional_value": null,
+      "readiness_for_larger_pilot": "yes | maybe | no",
+      "problems_reported": [],
+      "suggestions": []
+    }
+  ],
+  "open_ended_themes": []
+}

@@ -1,0 +1,32 @@
+# ---------------------------------------------------------------------------
+# Raw / sensitive project input — NEVER commit or publish.
+# All published documentation is generated in anonymized form from this data.
+# ---------------------------------------------------------------------------
+.private-input/
+*.private.json
+*.raw.json
+*.unredacted.*
+
+# Common secret / credential material (defense in depth — must never be committed)
+*.key
+*.pem
+*.seed
+*.mnemonic
+.env
+.env.*
+secrets.*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+
+# Build / dependency artifacts
+node_modules/
+dist/
+build/
+__pycache__/

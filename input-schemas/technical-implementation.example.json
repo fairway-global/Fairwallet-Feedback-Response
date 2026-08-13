@@ -1,0 +1,24 @@
+{
+  "credential_standard": "",
+  "credential_format": "",
+  "did_method": "",
+  "cardano_role": "",
+  "issuer_component": "",
+  "holder_wallet": "FairWallet",
+  "verifier_component": "",
+  "key_management_approach": "",
+  "revocation_approach": "",
+  "system_components": [
+    {
+      "name": "",
+      "responsibility": "",
+      "technology": ""
+    }
+  ],
+  "issuance_steps": [],
+  "verification_steps": [],
+  "evaluation_summary": "",
+  "known_limitations": [],
+  "public_repos": [],
+  "public_docs": []
+}

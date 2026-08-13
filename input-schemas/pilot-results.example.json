@@ -1,0 +1,18 @@
+{
+  "participants": [
+    {
+      "participant_code": "P01",
+      "participant_group": "student | organizer | institutional_stakeholder",
+      "wallet_setup": "completed_easily | completed_with_help | not_completed",
+      "credential_issued": true,
+      "credential_verified": true,
+      "issue_category": "none | wallet_setup | issuance | verification | connectivity | ux | other",
+      "issue_notes_anonymized": "",
+      "evidence_files": []
+    }
+  ],
+  "dashboard_screenshots": [],
+  "verification_screenshots": [],
+  "redacted_logs": [],
+  "demo_video_url": ""
+}

@@ -1,0 +1,34 @@
+{
+  "vision_statement": "",
+  "target_segments": [],
+  "scaling_phases": [
+    {
+      "phase_name": "",
+      "objective": "",
+      "target_scale": "",
+      "timeframe": "",
+      "key_activities": []
+    }
+  ],
+  "technical_requirements": [
+    {
+      "requirement": "",
+      "rationale": "",
+      "priority": "must_have | should_have | nice_to_have"
+    }
+  ],
+  "adoption_roadmap": [
+    {
+      "milestone": "",
+      "target_outcome": "",
+      "timeframe": "",
+      "dependencies": []
+    }
+  ],
+  "risks": [
+    {
+      "risk": "",
+      "mitigation": ""
+    }
+  ]
+}
