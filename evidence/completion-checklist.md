@@ -107,22 +107,22 @@ reviewer-verifiable **Complete**, plus the outstanding evidence items.
 
 | # | Item | Status | Destination | Responsible | Privacy/redaction | Public-link |
 |---|------|--------|-------------|-------------|-------------------|-------------|
-| 1 | Close-out video URL | Missing | `closeout/final-closeout-report.md` §10 | Fairway team | Privacy-check video before linking | Needs public video |
-| 2 | Public repository URL | Missing | `README.md` (top) | Repo maintainer | n/a | **This is the public-link gate** |
-| 3 | System-side verification evidence *or* documented limitation | Missing | `issuance-evidence/verification-evidence/` | Fairway technical | Redact identifiers | Needs public repo |
-| 4 | Redacted issuance-dashboard screenshot | Missing | `issuance-evidence/screenshots/` | Fairway technical | Redact per checklist | Needs public repo |
-| 5 | Redacted successful-presentation / verification screenshot | Missing | `issuance-evidence/verification-evidence/` | Fairway technical | Redact per checklist | Needs public repo |
-| 6 | Demo video URL (if separate) | Missing | `closeout/final-closeout-report.md` §10 | Fairway team | Privacy-check | Needs public video |
-| 7 | Fundamental Sales Technique template screenshot | Missing | `credential-schemas/evidence/` | Fairway technical | Redact any identifiers | Needs public repo |
-| 8 | Redacted IE Networks agreement | Missing | `partnership-strategy/evidence/` *(create)* | Fairway team | Redact names/signatures/contacts | Needs public repo |
-| 9 | Redacted Jasper Ethiopia agreement | Missing | `partnership-strategy/evidence/` *(create)* | Fairway team | Redact names/signatures/contacts | Needs public repo |
-| 10 | LinkedIn pilot-evidence URL | Missing | `partnership-strategy/partnership-and-adoption-model.md` | Fairway team | Public post only | Needs public URL |
-| 11 | Redacted proof of approved Fayda test API access | Missing | `partnership-strategy/evidence/` *(create)* | Fairway team | Redact tokens/identifiers | Needs public repo |
-| 12 | Reason two Jasper participants did not receive credentials | Missing | `feedback/participant-coverage.md` | Fairway team | n/a (no PII) | Needs public repo |
-| 13 | Decision on the 15 May credential (keep/exclude) | Missing | `issuance-evidence/anonymized-issuance-register.md` | Fairway team | n/a | Needs public repo |
-| 14 | Duplicate-attendee handling | Partial (counted once — confirm) | `issuance-evidence/anonymized-issuance-register.md` | Fairway team | n/a | Needs public repo |
-| 15 | Missing-ID attendee handling | Partial (noted — confirm) | `feedback/participant-coverage.md` | Fairway team | n/a | Needs public repo |
-| 16 | Final operational-facts JSON | Missing | `.private-input/` (raw) → derived docs | Fairway team | Anonymize before deriving | n/a (raw stays private) |
+| 1 | Close-out video URL | 🟡 Recorded (held off-repo) | `closeout/final-closeout-report.md` §10 | Fairway team | Privacy-check video before linking | Needs a **stable public link** (e.g. YouTube/Vimeo unlisted or a direct file) — a Drive **folder** link is not used |
+| 2 | Public repository URL | ✅ Done | GitHub repo settings | Repo maintainer | n/a | Repo is public |
+| 3 | System-side verification evidence *or* documented limitation | ✅ Documented limitation | `issuance-evidence/verification-evidence/README.md` | Fairway technical | n/a (text) | In repo |
+| 4 | Redacted issuance-dashboard screenshot | 🟡 Held off-repo (Drive) | `issuance-evidence/screenshots/` | Fairway technical | **Not yet verified** — download locally, Claude views & confirms redaction, then commit | Needs verified file in repo |
+| 5 | Redacted successful-presentation / verification screenshot | 🟡 Held off-repo (Drive) | `issuance-evidence/verification-evidence/` | Fairway technical | **Not yet verified** — same flow as #4 | Needs verified file in repo |
+| 6 | Demo video URL (if separate) | ⛔ Not applicable / not supplied | `closeout/final-closeout-report.md` §10 | Fairway team | Privacy-check | — |
+| 7 | Fundamental Sales Technique template screenshot | ⛔ Missing | `credential-schemas/evidence/` | Fairway technical | Redact any identifiers | Needs verified file in repo |
+| 8 | Redacted IE Networks agreement (MoU) | 🟡 Held off-repo (Drive MoU folder) | `partnership-strategy/evidence/` | Fairway team | **Not yet verified** — redact names/signatures/contacts, then commit | Needs verified file in repo |
+| 9 | Redacted Jasper Ethiopia agreement (MoU) | 🟡 Held off-repo (Drive MoU folder) | `partnership-strategy/evidence/` | Fairway team | **Not yet verified** — redact names/signatures/contacts | Needs verified file in repo |
+| 10 | LinkedIn pilot-evidence URL | ✅ Provided | `partnership-strategy/partnership-and-adoption-model.md` | Fairway team | Public post | In repo |
+| 11 | Proof of approved Fayda test API access | 🟡 Verbal confirmation only | `partnership-strategy/partnership-and-adoption-model.md` | Fairway team | n/a | Confirmed verbally (Telegram) + public API docs; **no formal artifact** — documented as such |
+| 12 | Reason two Jasper participants did not receive credentials | ✅ Provided | `feedback/participant-coverage.md` | Fairway team | n/a | In repo (no smartphone / incomplete setup) |
+| 13 | Decision on the 15 May credential (keep/exclude) | ⛔ Pending decision | `issuance-evidence/anonymized-issuance-register.md` | Fairway team | n/a | — |
+| 14 | Duplicate-attendee handling | 🟡 Counted once — confirm | `issuance-evidence/anonymized-issuance-register.md` | Fairway team | n/a | — |
+| 15 | Missing-ID attendee handling | 🟡 Noted — confirm | `feedback/participant-coverage.md` | Fairway team | n/a | — |
+| 16 | Final operational-facts JSON | ⛔ Not supplied | `.private-input/` (raw) → derived docs | Fairway team | Anonymize before deriving | n/a (raw stays private) |
 
 ---
 

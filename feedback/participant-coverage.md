@@ -26,8 +26,10 @@ input; only participant/respondent codes are shown.
 > **Reconciliation:** partnership records report **25 coordinated participants** (10 IE Networks
 > + 15 Jasper Ethiopia). The [issuance register](../issuance-evidence/anonymized-issuance-register.md)
 > evidences **23** credentials (10 IE + 13 Jasper). The 2-participant difference sits **within
-> the Jasper cohort** (15 coordinated, 13 issued/attended) — **to be confirmed** (no-shows /
-> not issued). This supersedes the earlier assumption that the gap was organizers/stakeholders.
+> the Jasper cohort** (15 coordinated, 13 issued). **Reason (project-confirmed):** some
+> coordinated participants **did not have a smartphone** and/or **did not complete wallet setup
+> and issuance**, so no credential was issued to them. This supersedes the earlier assumption
+> that the gap was organizers/stakeholders.
 > **Feedback** coverage (how many participants and stakeholders returned survey responses) is a
 > separate figure, still awaiting the feedback dataset.
 

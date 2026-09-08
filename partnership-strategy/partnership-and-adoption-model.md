@@ -18,8 +18,8 @@
 
 | Partner | Type | Role | Engagement status | Public reference |
 |---------|------|------|-------------------|------------------|
-| **IE Networks** | Employer / training organization | Participating employer & training org for the **Graduate Trainee Program** cohort | ✅ Completed (pilot cooperation) | ⛔ LinkedIn URL awaiting insertion |
-| **Jasper Ethiopia** | Educational institution | Participating training org for the **Fundamental Sales Technique** cohort | ✅ Completed (pilot cooperation) | ⛔ LinkedIn URL awaiting insertion |
+| **IE Networks** | Employer / training organization | Participating employer & training org for the **Graduate Trainee Program** cohort | ✅ Completed (pilot cooperation) | See public LinkedIn post (below) |
+| **Jasper Ethiopia** | Educational institution | Participating training org for the **Fundamental Sales Technique** cohort | ✅ Completed (pilot cooperation) | See public LinkedIn post (below) |
 | **National ID Ethiopia (Fayda)** | Identity provider | Provided **approved access to the Fayda *test* API** used for identity verification | 🟡 Active — **test API access only** | <https://id.gov.et/> |
 
 ### Contributions (as attested by the project team)
@@ -66,13 +66,13 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Signed pilot documentation — **IE Networks** | 🟡 Exists (attested); redacted copy ⛔ awaiting | Formal pilot agreement / MoU / authorization. Not published until a redacted copy is supplied. |
-| Signed pilot documentation — **Jasper Ethiopia** | 🟡 Exists (attested); redacted copy ⛔ awaiting | As above. |
-| **Fayda test-API access** | 🟡 Granted (attested) | Approved following Fairway's access request. Test environment only — not a partnership/endorsement/production agreement. |
-| Public **LinkedIn** evidence (IE Networks, Jasper) | ⛔ Awaiting exact URLs | Confirmed to exist; links will be inserted once provided. |
+| Signed pilot documentation — **IE Networks** | 🟡 MoU held by project team; redacted copy ⛔ to be added | Formal pilot MoU exists; a **redaction-verified** copy will be committed to [`evidence/`](evidence/) before it is treated as published evidence. |
+| Signed pilot documentation — **Jasper Ethiopia** | 🟡 MoU held by project team; redacted copy ⛔ to be added | As above. |
+| **Fayda test-API access** | 🟡 Granted (verbally confirmed) | Approved following Fairway's request; **confirmed verbally (Telegram)** — no formal written agreement. Public Fayda API documentation: <https://id.gov.et/>. Test environment only — not a partnership/endorsement/production agreement. |
+| Public **LinkedIn** pilot evidence | ✅ Provided | <https://www.linkedin.com/posts/abrham-bunaro-26a1191aa_fairwallet-fairway-fayda-activity-7468592607229837312-GOym> |
 
-> "Attested" means the project team confirms the artifact exists; the artifact itself is not
-> yet present in this repository and therefore is not reviewer-verifiable here.
+> "Held by project team" means the artifact exists but a redaction-verified copy is not yet in
+> this repository, so it is not yet reviewer-verifiable here. The LinkedIn post is public.
 
 ## Planned partnerships (future work)
 
