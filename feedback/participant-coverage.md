@@ -3,8 +3,8 @@
 **Acceptance criterion 1:** Collect and analyze feedback from all 20 pilot participants and
 stakeholders.
 
-> **Status:** ⛔ Awaiting project input. The coverage figures below are placeholders and are
-> **not** evidence of collection until populated from supplied data.
+> **Status:** 🟡 **Provided — awaiting review.** The figures below are calculated from the
+> supplied anonymized survey data.
 
 This document evidences **who was reached** and **from whom feedback was collected**, so that
 reviewers can confirm coverage of the full pilot cohort. It is generated from anonymized
@@ -30,8 +30,8 @@ input; only participant/respondent codes are shown.
 > coordinated participants **did not have a smartphone** and/or **did not complete wallet setup
 > and issuance**, so no credential was issued to them. This supersedes the earlier assumption
 > that the gap was organizers/stakeholders.
-> **Feedback** coverage (how many participants and stakeholders returned survey responses) is a
-> separate figure, still awaiting the feedback dataset.
+> **Feedback** coverage (how many participants and stakeholders returned survey responses) is
+> shown above: **27 valid responses** — 20 of 25 participants (80%) plus 7 organizers/stakeholders.
 
 ## Coverage by group
 

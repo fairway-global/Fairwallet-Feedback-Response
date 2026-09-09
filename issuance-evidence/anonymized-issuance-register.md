@@ -11,9 +11,9 @@
 ## What this dataset does and does not cover
 
 - **Covers:** credential **issuance** for the student participant group (status `issued`).
-- **Does not cover (⛔ awaiting):** wallet-setup outcomes, credential **verification**
-  outcomes, dashboard/verification screenshots, and the demo video. These will be added when
-  supplied.
+- **Does not cover (by design):** wallet-setup and credential **verification** outcomes — those
+  come from the survey ([feedback analysis](../feedback/feedback-analysis.md)); anonymized
+  dashboards are in [`screenshots/`](screenshots/) and [`verification-evidence/`](verification-evidence/).
 - Organizers and institutional stakeholders were not credential-issued; they are covered by
   the feedback datasets, not this register.
 
@@ -69,8 +69,8 @@ assumed.
 | — via Jasper (Fundamental Sales Technique) | 13 | count in Jasper export |
 | Student attendees recorded | 23 unique | attendee list, de-duplicated (24 rows − 1 duplicate) |
 | Issuance coverage of recorded student attendees | 23 / 23 | credentials issued ÷ unique student attendees |
-| Credentials verified | ⛔ Awaiting project input | not present in this dataset |
-| Wallet-setup success rate | ⛔ Awaiting project input | not present in this dataset |
+| Credentials verified | not in this dataset — see [feedback analysis](../feedback/feedback-analysis.md) | issuance export has no verification field |
+| Wallet-setup success rate | not in this dataset — see [feedback analysis](../feedback/feedback-analysis.md) | issuance export has no setup field |
 
 > Note: "23 / 23" reflects that every recorded student attendee has a corresponding issued
 > credential (counts match 1:1 by cohort). It is **not** a claim about participants who may

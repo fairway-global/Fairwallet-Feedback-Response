@@ -7,10 +7,11 @@ FairWallet project on Project Catalyst. It documents the pilot evaluation, the f
 analysis, the technical implementation, the credential-issuance evidence, and the scaling,
 partnership and close-out materials required for milestone acceptance.
 
-> **Status of this repository:** Scaffolded and awaiting project data. Sections marked
-> **`⛔ Awaiting project input`** are placeholders and **do not** constitute submitted
-> evidence. They will be populated only from data supplied by the project team and will be
-> published in anonymized, publication-safe form.
+> **Status of this repository:** Populated from project-supplied data and **published publicly**.
+> Every acceptance criterion has anonymized evidence in place (see the table below); remaining
+> items are tracked in the [Completion Checklist](evidence/completion-checklist.md). Any spot
+> still marked **`⛔ Awaiting project input`** is a specific, documented gap — not a missing
+> section. Only anonymized, publication-safe material is published.
 
 ---
 

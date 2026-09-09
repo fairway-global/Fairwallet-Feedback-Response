@@ -2,12 +2,12 @@
 
 **Acceptance criterion 9 (part):** Produce a close-out video.
 
-> **Status:** ⛔ Awaiting project input. The outline below is a **structural template** for
-> the close-out video. Specific figures, claims, and the final video link must come from
-> supplied data — none are invented here. The published video must contain **no** personally
-> identifying information (only anonymized figures and redacted visuals).
+> **Status:** 🟡 Video produced and linked. The outline below is the structural template used;
+> the published video must contain **no** personally identifying information (only anonymized
+> figures and redacted visuals).
 
-**Final video URL:** ⛔ Awaiting project input.
+**Final video URL:** <https://drive.google.com/file/d/1EJTEwE-x-w_J-uQ2CNGfTQT_7bqTgg29/view>
+(set Drive sharing to "anyone with the link").
 
 ## Suggested structure (template)
 
@@ -23,7 +23,8 @@
 
 ## Draft narration
 
-⛔ Awaiting project input — narration will be drafted only from confirmed, anonymized figures.
+The final video has been produced (linked above) following the structure and figures in this
+repository. This section is the working template; it was not used to invent any content.
 
 ## On-screen / privacy checklist
 

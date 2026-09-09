@@ -28,7 +28,8 @@ all 23 issued credentials.**
 dashboard (aggregate activity; contact name blurred; a `@test.com` operator account). No holder
 DIDs, credential IDs, or personal data.
 
-**Withheld (pending fuller redaction):** a per-request "completed verification" screenshot
-exposed a full holder DID, credential IDs, an exchange SAID and a name — it is held in
-`.private-input/` until those are masked. To publish it, mask the Holder DID, both credential
-IDs, the exchange SAID, and the name, then it can be committed here.
+**Withheld (not published):** a "completed verification" detail screenshot and per-participant
+credential-detail screenshots exposed holder DIDs / credential IDs / names; they are held in
+`.private-input/` (git-ignored) and are **not** published. Verification is therefore evidenced
+by this dashboard, the documented limitation above, and the survey self-report in the
+[feedback analysis](../../feedback/feedback-analysis.md) (18 of 19 respondents who attempted).

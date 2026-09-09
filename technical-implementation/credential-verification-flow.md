@@ -39,9 +39,9 @@ sequenceDiagram
 8. KERIA and Signify-TS process the presentation, credential schema, issuer and status.
 9. The verifier receives the credential-presentation result.
 
-> **Note:** These are the confirmed verification *steps*. Anonymized **evidence that
-> credentials were actually verified** during the pilot is a separate item and is still
-> ⛔ awaiting — see [verification-evidence/](../issuance-evidence/verification-evidence/).
+> **Note:** These are the confirmed verification *steps*. Anonymized **evidence** of
+> verification (a verifier dashboard plus a documented limitation on full system-side coverage)
+> is in [verification-evidence/](../issuance-evidence/verification-evidence/).
 
 ## Related
 

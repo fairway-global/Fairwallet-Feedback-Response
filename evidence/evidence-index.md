@@ -6,8 +6,9 @@ status. This complements the
 README and the [Completion Checklist](completion-checklist.md) (what is still needed to reach
 reviewer-verifiable **Complete**).
 
-> **Status:** ⛔ Repository scaffolded; awaiting project input. Every artifact below is
-> currently a placeholder. A placeholder is **never** counted as completed evidence.
+> **Status:** Populated and published. Every criterion has anonymized evidence in the repo
+> (statuses below); the remaining gaps are specific and documented. A placeholder is **never**
+> counted as completed evidence.
 
 ## Status legend
 
@@ -32,7 +33,7 @@ reviewer-verifiable **Complete**).
 | 6 | [Partnership & Adoption Model](../partnership-strategy/partnership-and-adoption-model.md) | Strategy | 🟡 Provided — awaiting review *(LinkedIn ✅; redacted MoUs ✅; Fayda test-API)* |
 | 8 | [Anonymized Issuance Register](../issuance-evidence/anonymized-issuance-register.md) | Register | 🟡 Provided — awaiting review *(23 credentials issued)* |
 | 8 | [Issuance Screenshots](../issuance-evidence/screenshots/) | Redacted media | 🟡 Issuer dashboard ✅; per-credential detail withheld |
-| 8 | [Verification Evidence](../issuance-evidence/verification-evidence/) | Redacted media | 🟡 Verifier dashboard ✅ + documented limitation |
+| 8 | [Verification Evidence](../issuance-evidence/verification-evidence/) | Redacted media | 🟡 Verifier dashboard ✅ + documented limitation (detail shots withheld) |
 | 5 | [Template → schema mapping](../credential-schemas/README.md) | Reference | ✅ Mapping documented; template screenshots committed |
 | 9 | [Final Close-out Report](../closeout/final-closeout-report.md) | Report | 🟡 Complete (§1–§12: exec summary, outcomes, lessons, acknowledgements) |
 | 9 | [Close-out Video Script](../closeout/closeout-video-script.md) | Script + link | 🟡 Video ✅ linked; script scaffolded |

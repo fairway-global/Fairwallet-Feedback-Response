@@ -3,9 +3,9 @@
 **Acceptance criterion 6:** Publish partnership strategies and implementation.
 
 > **Status:** 🟡 **Provided — awaiting review.** The partnership strategy and its implementation
-> are documented below as confirmed by the project team. Supporting artifacts (redacted signed
-> agreements, public LinkedIn links) are ⛔ **awaiting supply** and are not published yet.
-> Engagement statuses are stated as-is and are **not** inflated.
+> are documented below as confirmed by the project team. **Redacted MoUs** and the public
+> **LinkedIn** post are included; the Fayda relationship is **test-API only**. Engagement
+> statuses are stated as-is and are **not** inflated.
 
 ## Partnership objectives
 
@@ -66,8 +66,8 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Signed pilot documentation — **IE Networks** | 🟡 MoU held by project team; redacted copy ⛔ to be added | Formal pilot MoU exists; a **redaction-verified** copy will be committed to [`evidence/`](evidence/) before it is treated as published evidence. |
-| Signed pilot documentation — **Jasper Ethiopia** | 🟡 MoU held by project team; redacted copy ⛔ to be added | As above. |
+| Signed pilot documentation — **IE Networks** | ✅ Redacted MoU published | In [`evidence/`](evidence/) — body carries no personal data; signatory names/signatures masked. |
+| Signed pilot documentation — **Jasper Ethiopia** | ✅ Redacted MoU published | In [`evidence/`](evidence/) — as above. |
 | **Fayda test-API access** | 🟡 Granted (verbally confirmed) | Approved following Fairway's request; **confirmed verbally (Telegram)** — no formal written agreement. Public Fayda API documentation: <https://id.gov.et/>. Test environment only — not a partnership/endorsement/production agreement. |
 | Public **LinkedIn** pilot evidence | ✅ Provided | <https://www.linkedin.com/posts/abrham-bunaro-26a1191aa_fairwallet-fairway-fayda-activity-7468592607229837312-GOym> |
 

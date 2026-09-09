@@ -3,9 +3,9 @@
 **Acceptance criterion 5 (part):** Publish the technical implementation evaluation.
 
 > **Status:** 🟡 **Provided — awaiting review.** The technical *implementation* is documented as
-> confirmed by the project team, and the **performance evaluation** (§ "Evaluation against pilot
-> use") is now synthesized from the system record and feedback results. `key_management` and
-> `revocation` details remain ⛔ awaiting.
+> confirmed by the project team; the **performance evaluation** (§ "Evaluation against pilot
+> use") is synthesized from the system record and feedback; and **key-management and revocation
+> approaches are documented** below.
 
 ## Overview
 
@@ -114,6 +114,6 @@ These feed the [Improvement & Iteration Plan](../improvements/improvement-and-it
 - Source repository: <https://github.com/fairway-global/fairway-veridian-wallet>
 - Product site: <https://www.fairwallet.et/>
 
-Additional repositories and documentation: ⛔ Awaiting project input. *(The technical stack,
-standards, DID method, and on-chain role are not inferred from the repository name and remain
-⛔ Awaiting project input until confirmed via the technical-implementation dataset.)*
+The technical stack, standards, DID method, and Cardano's (non-)role are documented above as
+confirmed by the project team. No additional public repositories/documentation were supplied
+beyond the links above.

@@ -3,8 +3,8 @@
 **Acceptance criterion 9 (part):** Produce a close-out report.
 
 > **Status:** 🟡 **Assembled — awaiting review.** This report is compiled from the supplied
-> datasets. The **close-out video URL** is still ⛔ awaiting, and the documentation objective
-> notes that final "published" status depends on a **public repository URL**.
+> datasets. The close-out video is linked in §10 and the repository is public; final acceptance
+> depends on Catalyst reviewer verification.
 
 ## Executive summary
 
@@ -81,10 +81,11 @@ Summarized from the [Issuance Register](../issuance-evidence/anonymized-issuance
 - Issuance took place primarily on **22 May 2026** (pilot day), with one credential issued on
   15 May 2026.
 - Every recorded student attendee (23 unique) has a corresponding issued credential.
-- **System-side verification outcomes** for the issued credentials and supporting **redacted
-  screenshots** are ⛔ awaiting and are not asserted here. Survey-based setup/verification
-  results (self-reported by respondents) are in §4 and are **not** a system-wide verification
-  record for all 23 credentials.
+- **System-side verification outcomes** for every issued credential are **not fully available**
+  (documented limitation: some participants lacked a smartphone or did not complete setup);
+  anonymized issuer/verifier dashboards are provided instead. Survey-based setup/verification
+  results (self-reported) are in §4 and are **not** a system-wide verification record for all 23
+  credentials.
 
 _Rates that depend on the feedback dataset (satisfaction, ease of use, verification) are in
 §4._
@@ -136,7 +137,8 @@ Summarized from the [Technical Evaluation](../technical-implementation/technical
   The "Fundamental Sales Technique" template reuses the FaydaVerifiedAutoIssue schema — see the
   [template → schema mapping](../credential-schemas/README.md).
 - **Performance evaluation** (what worked / issues) is documented from the system record and
-  feedback; `key_management` and `revocation` details remain ⛔ awaiting.
+  feedback; **key-management (KERIA/Firebase) and revocation (ACDC status registry) approaches**
+  are documented in the technical evaluation.
 
 ## 7. Partnerships
 
@@ -148,8 +150,9 @@ Summarized from the [Partnership & Adoption Model](../partnership-strategy/partn
 - **National ID Ethiopia (Fayda):** Fairway obtained **approved access to the Fayda _test_ API
   only**, integrated for identity verification. This is **not** a formal partnership,
   endorsement, or production-access agreement, and no production Fayda access was held.
-- Signed pilot documentation for IE Networks and Jasper Ethiopia **exists** (attested); redacted
-  copies and public LinkedIn links are ⛔ awaiting supply before publication.
+- **Redacted MoUs** for IE Networks and Jasper Ethiopia are published under
+  [partnership-strategy/evidence/](../partnership-strategy/evidence/); the public **LinkedIn**
+  pilot post is linked in the partnership model.
 - Future work: continue the two institutional relationships, pursue production Fayda access and
   a formal long-term arrangement where required, and expand to further Ethiopian employers,
   universities and training providers.
