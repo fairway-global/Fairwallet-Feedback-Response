@@ -29,13 +29,13 @@ reviewer-verifiable **Complete**).
 | 7 | [System Architecture](../technical-implementation/system-architecture.md) | Diagram | 🟡 Provided — awaiting review |
 | 7 | [Credential Issuing Flow](../technical-implementation/credential-issuing-flow.md) | Diagram | 🟡 Provided — awaiting review |
 | 7 | [Credential Verification Flow](../technical-implementation/credential-verification-flow.md) | Diagram | 🟡 Provided — awaiting review |
-| 6 | [Partnership & Adoption Model](../partnership-strategy/partnership-and-adoption-model.md) | Strategy | 🟡 Provided — awaiting review *(Fayda = test-API only; signed docs/links awaiting)* |
+| 6 | [Partnership & Adoption Model](../partnership-strategy/partnership-and-adoption-model.md) | Strategy | 🟡 Provided — awaiting review *(LinkedIn ✅; redacted MoUs ✅; Fayda test-API)* |
 | 8 | [Anonymized Issuance Register](../issuance-evidence/anonymized-issuance-register.md) | Register | 🟡 Provided — awaiting review *(23 credentials issued)* |
-| 8 | [Issuance Screenshots](../issuance-evidence/screenshots/) | Redacted media | ⛔ Awaiting project input |
-| 8 | [Verification Evidence](../issuance-evidence/verification-evidence/) | Redacted media | ⛔ Awaiting project input |
-| 5 | [Template → schema mapping](../credential-schemas/README.md) | Reference | 🟡 Mapping documented; template screenshot ⛔ awaiting upload |
+| 8 | [Issuance Screenshots](../issuance-evidence/screenshots/) | Redacted media | 🟡 Issuer dashboard ✅; per-credential detail withheld |
+| 8 | [Verification Evidence](../issuance-evidence/verification-evidence/) | Redacted media | 🟡 Verifier dashboard ✅ + documented limitation |
+| 5 | [Template → schema mapping](../credential-schemas/README.md) | Reference | ✅ Mapping documented; template screenshots committed |
 | 9 | [Final Close-out Report](../closeout/final-closeout-report.md) | Report | 🟡 Complete (§1–§12: exec summary, outcomes, lessons, acknowledgements) |
-| 9 | [Close-out Video Script](../closeout/closeout-video-script.md) | Script + link | ⛔ Video URL awaiting; script scaffolded |
+| 9 | [Close-out Video Script](../closeout/closeout-video-script.md) | Script + link | 🟡 Video ✅ linked; script scaffolded |
 | — | [Completion Checklist](completion-checklist.md) | Tracker | 🟡 Path-to-Complete for all criteria + 16 outstanding items |
 
 ## Evidence classification

@@ -30,8 +30,8 @@ six standard KERI witnesses. See the [system architecture](system-architecture.m
 | Issuer component | Fairway Credential Issuance UI + custom Credential Server (Signify-TS + KERIA Cloud Agent) |
 | Holder wallet | FairWallet (KERI edge wallet) |
 | Verifier component | Fairway Request Presentation interface + Credential Server (Signify-TS + KERIA) |
-| Key management approach | ⛔ Awaiting project input |
-| Revocation approach | ⛔ Awaiting project input |
+| Key management approach | Issuer signing keys (KERI AIDs) are managed within the **KERIA deployment** on the project's **Firebase-hosted** server infrastructure; production-grade managed key storage, rotation and recovery are a scaling requirement |
+| Revocation approach | ACDC **credential status registry** (`ri`) on KERIA provides the basis for revocation; controlled correction/status/revocation procedures were not a pilot focus and are a scaling requirement |
 
 ## Use of Cardano in the pilot
 
@@ -97,7 +97,11 @@ These feed the [Improvement & Iteration Plan](../improvements/improvement-and-it
 - **No production Fayda access:** identity verification used the Fayda **test** API only.
 - **No Cardano anchoring:** Key Event Logs were not anchored on Cardano in the pilot (optional
   future capability).
-- `key_management_approach` and `revocation_approach`: ⛔ still awaiting project input.
+- **Key management:** pilot issuer keys are held within the KERIA/Firebase deployment;
+  production-grade managed key storage, rotation, recovery and separation of duties are a
+  scaling requirement (server-side evidence can be provided to reviewers on request).
+- **Revocation:** supported in principle via the ACDC status registry (`ri`) but not exercised
+  in the pilot; controlled revocation/correction is a scaling requirement.
 
 ## Related diagrams
 

@@ -37,8 +37,9 @@ credential *template* record (display name "Fundamental Sales Technique") built 
 after Fayda verification **enabled**, **6** configured fields, **13** credentials issued,
 template created/updated **2026-05-22 00:09:22**.
 
-Evidence of this template-to-schema mapping (platform screenshot):
-[`evidence/`](evidence/) — ⛔ **awaiting upload** (see that folder's note).
+Evidence of this template-to-schema mapping (platform screenshots): [`evidence/`](evidence/) —
+template records for **Graduate Trainee Program (GTP)** and **Fundamental Sales Technique** (the
+latter showing template ID `afac71ee-…` built on schema SAID `EHYYZFJas0…`).
 
 ## About the schema contents
 

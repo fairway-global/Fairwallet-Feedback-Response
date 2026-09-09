@@ -24,8 +24,11 @@ all 23 issued credentials.**
 
 ## Redacted screenshots
 
-Where a successful verification/presentation was captured, a **redaction-verified** screenshot
-will be committed here (masking any DID/AID, credential ID, name, or Fayda identifier). Raw
-captures are held outside this repository until redaction is verified.
+**Present:** `Redacted verifier dashboard activity.png` — an anonymized verifier-workspace
+dashboard (aggregate activity; contact name blurred; a `@test.com` operator account). No holder
+DIDs, credential IDs, or personal data.
 
-⛔ Awaiting redaction-verified screenshot(s).
+**Withheld (pending fuller redaction):** a per-request "completed verification" screenshot
+exposed a full holder DID, credential IDs, an exchange SAID and a name — it is held in
+`.private-input/` until those are masked. To publish it, mask the Holder DID, both credential
+IDs, the exchange SAID, and the name, then it can be committed here.

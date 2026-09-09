@@ -178,8 +178,13 @@ table and the [Evidence Index](../evidence/evidence-index.md).
 
 ## 10. Close-out video
 
-Script: [closeout-video-script.md](closeout-video-script.md) · Close-out video link:
-⛔ **Awaiting project input** · Demo video link: ⛔ Awaiting project input.
+Script: [closeout-video-script.md](closeout-video-script.md) · Close-out video:
+<https://drive.google.com/file/d/1EJTEwE-x-w_J-uQ2CNGfTQT_7bqTgg29/view> · Demo video: not a
+separate video (the close-out video covers the demo).
+
+> The video is hosted on Google Drive — ensure its sharing is set to **"anyone with the link"**
+> so reviewers can open it. Its contents were supplied by the project team and should show only
+> anonymized/redacted material.
 
 ## 11. Lessons learned
 

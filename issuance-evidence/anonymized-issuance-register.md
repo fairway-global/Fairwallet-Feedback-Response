@@ -78,6 +78,9 @@ assumed.
 
 ## Supporting artifacts
 
-- Redacted issuance screenshots: [`screenshots/`](screenshots/) — ⛔ Awaiting project input.
-- Verification evidence: [`verification-evidence/`](verification-evidence/) — ⛔ Awaiting project input.
+- Anonymized issuer **dashboard** screenshot: [`screenshots/`](screenshots/) — issuer
+  *activities* view (18 connections, 13 issued). Per-credential detail screenshots are withheld
+  (they exposed holder DIDs / credential IDs) and held in `.private-input/` pending fuller
+  redaction.
+- Verification evidence + documented limitation: [`verification-evidence/`](verification-evidence/).
 - Source export (not published): retained in `.private-input/` (git-ignored).

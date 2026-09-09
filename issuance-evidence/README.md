@@ -2,12 +2,14 @@
 
 **Acceptance criterion 8:** Provide evidence that credentials were issued.
 
-> **Status:** 🟡 **Partially provided — awaiting review.** The
-> [anonymized issuance register](anonymized-issuance-register.md) is populated from the
-> platform's credential export and evidences **23 credentials issued** to the student cohort.
-> Still ⛔ awaiting: redacted issuance/verification **screenshots**, **verification** outcomes,
-> and the **demo video**. This folder holds only **anonymized, redacted** material — raw
-> exports and personal data stay in `.private-input/` (git-ignored).
+> **Status:** 🟡 **Provided — awaiting review.** The
+> [anonymized issuance register](anonymized-issuance-register.md) evidences **23 credentials
+> issued**, plus an anonymized **issuer dashboard** screenshot ([`screenshots/`](screenshots/))
+> and an anonymized **verifier dashboard** screenshot with a documented verification limitation
+> ([`verification-evidence/`](verification-evidence/)). **Per-credential detail screenshots were
+> withheld** because they exposed holder DIDs / credential IDs; they are held in
+> `.private-input/` pending fuller redaction. This folder holds only **anonymized, redacted**
+> material.
 
 ## Contents
 

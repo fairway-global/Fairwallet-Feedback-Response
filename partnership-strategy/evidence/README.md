@@ -2,9 +2,11 @@
 
 Redacted, publication-safe partnership artifacts (MoUs / authorizations) go here.
 
-> **Status:** ⛔ Awaiting redaction-verified files. The IE Networks and Jasper Ethiopia MoUs
-> are held by the project team off-repo. A redacted copy of each will be committed here only
-> **after** the redaction below is verified.
+> **Status:** 🟡 Redacted MoUs added (redaction reviewed). `Redacted Fairway IE Network MOU.png`
+> and `Redacted Fairway Jasper MOU .png` are present: the body text carries no personal data,
+> and signatory names and signatures are masked. Organization names (Fairway, IE Networks,
+> Jasper Ethiopia) are intentionally retained. *Recommendation: confirm the CEO-name masking is
+> fully opaque (faint traces should be flattened) before relying on it publicly.*
 
 ## Redaction checklist (apply before adding any agreement)
 
